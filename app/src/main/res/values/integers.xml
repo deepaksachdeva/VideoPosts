@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Used in news feed adapter for setting tag to view -->
+    <integer name="selected_index">0</integer>
+</resources>
